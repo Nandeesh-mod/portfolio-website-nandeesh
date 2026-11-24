@@ -1,0 +1,107 @@
+
+
+Nandeesh M
++ Bangalore# nandeeshm2020@gmail.com   +91 6361070739ð nandeesh-m-a7068b1ba
+§ Nandeesh-mod
+Education
+Siddaganga Institute of Technology, Tumkur
+B.E in Information Science and Engineering
+Sept 2020 – Mar 2024
+◦  CGPA: 8.9/10.0
+◦ Skills :  Computer Architecture, Data Structure and Algorithms, Computer Networks, Machine Learning,
+Operating System, Object Oriented Programming in C++, JAVA, Database Management System.
+Experience
+Software Engineer
+Manhattan Associates
+Bangalore, India
+Sep 2025 – Present
+◦  Implemented custom extensions and product enhancements in Java , Spring , Spring booot and C++ for
+an enterprise Warehouse Management System (WMOS), delivering solutions for multiple client in France
+Region.
+◦  Resolved complex product issues in WMOS by developing production-ready, high-quality code for enterprise
+customers.
+◦  Performed code analysis, debugging, and root cause analysis (RCA) to identify and resolve software defects,
+improving application stability.
+◦  Troubleshot database-related issues and supported software deployment and configuration in on-premises
+customer environments.
+◦  Understanding of microservices-based active warehouse management architecture.
+System Engineer (Devops)
+Rakuten India Enterprise Private Limited
+Bangalore, India
+Aug 2024 – Mar 2025
+◦  Monitored and troubleshot various services deployed on EKS, GKE, and Rakuten OneCloud platforms.
+◦  Designed and implemented Jenkins pipelines to automate CI/CD workflows for multiple services at Rakuten
+India.
+◦  Conducted in-depth monitoring and issue resolution for distributed database clusters, including Couchbase,
+MySQL, and Cassandra.
+◦  Managed  complete  CI/CD  lifecycle,  from  writing  Dockerfiles  to  deploying  containerized  applications  on
+Kubernetes clusters.
+◦  Authored  and  maintained  Kubernetes  manifests  (Deployments,  Services,  ConfigMaps,  etc.)   for  service
+orchestration and deployment.
+Engineer Intern
+Rakuten India Enterprise Private Limited
+Bangalore, India
+Feb 2024 – July 2024
+◦  Built  an  internal  query  dashboard  using  PagerDuty  API,  LLM  (deployed  via  Ollama),  Python,  Flask,
+MySQL,  React.js,  and  Chart.js  to  automate  monthly  report  generation.   Enabled  dynamic  data  fetching
+and  visualization  of  incident  trends  using  LLM  and  interactive  charts,  improving  insights  and  efficiency.
+Containerized  the  application  using  Docker  and  Docker  Compose  for  seamless  internal  deployment  this
+project saved the team 80+ several hours monthly.
+◦  Developed a Chatbot using LLM with Python (backend) and React (frontend), leveraging RAG (Retrieval-
+Augmented Generation) on internal team data.  Enabled new customers to easily understand the services
+offered,  improving  onboarding  and  communication.   The  solution  enhanced  business  value  by  increasing
+transparency and client engagement.
+Nandeesh M - Page 1 of 2
+
+Publications
+A Real-Time Network Intrusion Detection Based on Transformer-LSTM
+Model
+Sai Sonal G, Nandeesh M , Jeevan G, Mohammed Adnan, Dr.  Jayana H S
+Dec 2024
+MPCIT62449.2024.10892727
+2
+Projects
+Quote Vote System
+quotevote
+2
+◦  Implemented a complete backend system in Go, covering everything from database migrations to authenti-
+cation, with unit tests for each core functionality.
+◦  Used  Gin  as  the  web  framework,  sqlc  for  type-safe  database  access,  and  implemented  robust  database
+transactions.
+◦  Containerized the application with Docker and integrated CI using GitHub Actions for continuous testing.
+The project was aimed at mastering Golang backend development.
+◦  Tools Used:  Golang, Gin, Sqlc, docker,kubernetes, github-actions.
+A Real Time Intrusion Detection Based on Transformer-LSTMmajor-project
+2
+◦  Developed  a  real-time  traffic  analysis  and  threat  detection  system  using  advanced  deep  learning  models
+Engineered  a  comprehensive  web  dashboard  to  alert  and  analyze  traffic,  improving  real-time  monitoring
+capabilities
+◦  Tools Used:  Python, flask, pytorch, kafka, ELK, MySQL, Docker, Docker-Compose.
+Clean Environ Full stack Java Projecthobby project
+2
+◦  Created a full-stack Java application to help the government and public manage waste through a complaint
+registration and resolution platform.
+◦  Users can report waste issues by submitting location data and uploading images, while authorities can track
+and resolve complaints based on priority and location.
+◦  The  system  includes  a  reward  mechanism,  where  users  earn  points  when  their  complaints  are  resolved,
+encouraging civic engagement.
+◦  Tools Used:  Java, Spring, Spring boot, Spring JPA, Maven, MySQL.
+Gesture-Controlled Gaming Applicationmini project
+2
+◦  Developed a web-based gaming application that enables users to control games using body gestures, lever-
+aging OpenCV and MediaPipe for real-time gesture recognition.
+◦  Tools Used:  Python, Streamlit, NumPy,open-cv, mediapipe, pyautogui.
+Mate Spacemate space
+2
+◦  Developed a full-stack social networking platform similar to Instagram, using HTML, CSS, JavaScript, and
+PHP.
+◦  Designed to connect students within a college ecosystem based on shared interests, allowing them to post
+content and follow like-minded peers.
+◦  Enabled interest-based networking and content discovery to foster community engagement on campus.
+◦  Tools Used:  HTML, CSS, JavaScript, PHP, MySQL.
+Technologies
+Languages:  Python, Golang, Java, SQL, JavaScript, React Basics.
+Frameworks:  Spring , Spring boot, Go Chi
+Technologies:  Spring, Spring boot, Spring JPA, Kafka , Maven, HTML, CSS , Docker, Jenkins, Kubernetes,
+git, linux, CI/CD , AWS basics, GCP basics.
+Nandeesh M - Page 2 of 2
